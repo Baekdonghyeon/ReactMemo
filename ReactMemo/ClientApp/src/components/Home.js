@@ -6,7 +6,7 @@ export class Home extends Component {
   render () {
     return (
         <div>
-            <h1>안녕하세여 꾸끄리3</h1>
+            <h1>안녕ㅇ하세여 꾸끄리3</h1>
        
       </div>
     );
